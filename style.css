@@ -1,0 +1,22 @@
+body {
+    color: white;
+    background-color: lightseagreen;
+
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 6px dotted rgb(255, 115, 115);
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color:lightslategrey;
+}
+.name_of_objects {
+    border: 1px dashed lightgoldenrodyellow;
+    background-color: palegoldenrod;
+}
